@@ -1,5 +1,7 @@
 #Selection Sort in Python
 Selection sort is a simple sorting algorithm. 
+</br>
+![](https://upload.wikimedia.org/wikipedia/commons/b/b0/Selection_sort_animation.gif)
 ***
 pseudocode: 
 ``` 
